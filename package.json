@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "0.1.0",
+  "description": "Um clone do Tabnews, não affiliado a Filipe Deschamps Tech Inc.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrodev2026/clone-tabnews.git"
+  },
+  "author": "pedrodev2026",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "next": "^15.5.14",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/pedrodev2026/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/pedrodev2026/clone-tabnews#readme"
+}
